@@ -1,0 +1,9 @@
+.. role:: red
+.. role:: yellow
+.. role:: green
+.. role:: blue
+.. role:: white
+.. role:: strike
+.. role:: underline
+.. role:: transparent
+.. role:: mono

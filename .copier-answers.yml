@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: cca9dbb
+_src_path: .
+copyright_year: '2023'
+documentation: true
+email: me@cuinixam.com
+full_name: cuinixam
+github_username: cuinixam
+initial_commit: false
+open_source_license: MIT
+package_name: spled_docs
+project_name: SPLed Docs
+project_short_description: SPLed project related documentation (e.g., presentations,
+    workshops)
+project_slug: spled-docs
+run_poetry_install: false
+setup_github: false
+setup_pre_commit: false
+
